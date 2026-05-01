@@ -1,44 +1,63 @@
-# 👋 Hi, I'm Omar Ababneh
+# Hi, I'm Omar Ababneh
 
-I'm a Software Developer with experience in .NET, Java, and backend services.  
-I enjoy solving problems, building web services, and learning about AI and data analysis.
+Senior Software Developer specializing in Java backend and real-time 
+telecom systems. I build services where low-level details actually 
+matter protocol handling, concurrency, and AI integration.
 
-## 💼 My Experience
-- 🔹 Software Developer at Globitel
-- 🔹 Java Intern at Atypon
-- 🔹 DevOps Intern at Atypon
-- 🔹 Software Engineer at Labiba
+Currently at Globitel, building call recording, AI analytics, and 
+real-time communication systems for enterprise and government clients 
+across the Middle East.
 
-## 🛠️ Skills
-- C#, ASP.NET Core, Java, SQL
-- Web APIs, Background Services
-- Logging tools (log4net, NLog)
-- Windows services
-- SQL Server
+## Experience
 
-## 📂 Projects
-### 📁 Call Traffic Capture Tool
-- Captures RTP packets, saves them, converts to audio
-- Built in Java using npcap and ffmpeg
+- Senior Software Developer · Globitel (Nov 2022 – Present)
+- Software Engineer · Labiba (Mar 2022 – Oct 2022)
+- Java & DevOps Intern · Atypon (May 2021 – Sep 2021)
 
-### 📁 JSON File Processor
-- Organizes logs and data files by date and size
-- Built with .NET 8 and background workers
+## Tech Stack
 
-### 📁 Softphone Desktop Application
-- Maintained, debugged, and enhanced an existing VoIP desktop application
-- Added new features and resolved bugs to improve stability and user experience
+**Core:** Java · C# · SQL  
+**Protocols:** SIP · RTP/RTCP · TCP · UDP · WebSocket · SOAP  
+**Backend:** Multithreading · REST APIs · Windows Services · Maven  
+**Data:** SQL Server · RabbitMQ · JMS  
+**DevOps:** Docker · Docker Compose · Linux  
+**Security:** SSL/TLS · API Auth & Authorization  
+**Tools:** Wireshark · Postman · Git  
 
-### 📁 Web Services Integration
-- Developed web services and client-side components to communicate with third-party systems and AI engines
-- Focused on secure, reliable data exchange and integration
-- Built using .NET 8 and Java
+## Projects
 
-### 📁 Windows Service
-- Developed windows services to communicate with third-party systems, AI engines, database
-- Focused on secure, reliable data exchange and integration
-- Built using .NET 8 and Java
+### Call recording system
+Captures live RTP packets from PBX systems, saves and converts 
+them to audio files.  
+Built in Java using npcap and ffmpeg.
 
-## 📫 How to reach me
+### Real-Time AI Agent Assistant
+Backend service that captures live call audio, streams it to an 
+AI transcription engine via WebSocket, and pushes guidance back 
+to agents mid-call.  
+Built in Java with multithreading for concurrent session handling.
+
+### AI Post-Call Analytics Bridge
+Connects the call recording engine to AI models for transcription, 
+sentiment scoring, and contact reason detection.  
+Built in Java with SQL Server for result persistence.
+
+### Softphone Desktop Application
+Maintained and enhanced a VoIP desktop softphone with SOAP-based 
+integrations for real-time external data lookups.  
+Built in Java with TCP/PBX integration.
+
+### Agent Desktop Activity Monitor
+Lightweight desktop agent that monitors call centre agent activity 
+in real time via persistent TCP connection.  
+Built in C# with SQL Server.
+
+## Certifications
+
+- AWS Certified Cloud Practitioner
+- Avaya DevConnect Certified · IPOffice Integration
+
+## Contact
+
 - Email: omarababneh1010@gmail.com
 - LinkedIn: https://www.linkedin.com/in/omar-ababneh-24a6301b1/
