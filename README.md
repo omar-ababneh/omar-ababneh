@@ -4,7 +4,7 @@ Senior Software Developer specializing in Java backend and real-time
 telecom systems. I build services where low-level details actually 
 matter protocol handling, concurrency, and AI integration.
 
-Currently at Globitel, building call recording, AI analytics, and 
+Currently at Globitel, building call recording, AI Agent Assistant, and 
 real-time communication systems for enterprise and government clients 
 across the Middle East.
 
